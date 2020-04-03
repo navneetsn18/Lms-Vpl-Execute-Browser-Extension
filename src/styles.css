@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+    background-color: #fb8a2e;
+}
+
+#button {
+    background-color: white;
+    border: 1px solid black;
+    font-size: 1.3em;
+    border-radius: 4px;
+    box-shadow: 0px 5px 7px black;
+    transition: transform 0.2s;
+}
+
+#button:focus {
+    outline: 0;
+}
+
+#button:hover {
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+    transform: scale(.95);
+}
+
+p {
+    font-size: 0.7em;
+}
+
+#heart {
+    color: red;
+}
