@@ -15,3 +15,7 @@ Just on the developer mode on extension and install the extension.
 * On the top right turn on developer mode.
 * Now on top left click on load unpacked and locate the downloaded folder.
 * Now to turn on the extension and you are ready to go. Note that a rocket icon is showing at the extension area near the search bar.
+
+# Note
+
+Or you can use the bookmark version also which you can find here <https://github.com/navneetsn18/Lms-Trick>
