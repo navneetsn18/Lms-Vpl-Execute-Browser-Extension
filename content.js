@@ -12,7 +12,7 @@ function gotmessage(message, sender, sendResponse) {
                     stopInterval();
                     alert("Execution successful!");
                 } else if (document.querySelector("h4#ui-accordion-vpl_results_accordion-header-0.vpl_ide_accordion_t_grade.ui-accordion-header.ui-helper-reset.ui-state-default.ui-corner-all.ui-accordion-icons").textContent ===
-                    "Proposed grade: 0 / 50") {
+                    "Proposed grade: 50 / 100") {
                     stopInterval();
                     alert("Please check your program again! Its need some more efforts!");
                 } else if (document.querySelector("h4#ui-accordion-vpl_results_accordion-header-0.vpl_ide_accordion_t_grade.ui-accordion-header.ui-helper-reset.ui-state-default.ui-corner-all.ui-accordion-icons").textContent ===
