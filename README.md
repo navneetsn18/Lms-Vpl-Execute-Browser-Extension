@@ -7,7 +7,7 @@ Just on the developer mode on extension and install the extension.
 ##### Please note that after installing the  extension don't delete the folder otherwise the extension will not work. So kindly install the extension from a safe folder location otherwise it will not work.
 
 
-`<For video tutorial>` : <>
+`<For video tutorial>` : <https://youtu.be/lZ4YWx0z7Xo>
 
 # Steps
 
