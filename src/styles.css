@@ -3,7 +3,8 @@ body {
     background-color: #fb8a2e;
 }
 
-#button {
+#button1,
+#button2 {
     background-color: white;
     border: 1px solid black;
     font-size: 1.3em;
@@ -12,11 +13,13 @@ body {
     transition: transform 0.2s;
 }
 
-#button:focus {
+#button1:focus,
+#button2:focus {
     outline: 0;
 }
 
-#button:hover {
+#button1:hover,
+#button2:hover {
     background-color: black;
     color: white;
     border: 1px solid white;

@@ -21,5 +21,15 @@ function gotmessage(message, sender, sendResponse) {
             function stopInterval() { clearInterval(trick); }
         };
         run();
+    } else if (message.txt === "It will be copied") {
+        function cpy() {
+            alert("Copy Paste enabled.");
+            var allowPaste = function(e) {
+                e.stopImmediatePropagation();
+                return true;
+            };
+            document.addEventListener('paste', allowPaste, true);
+        }
+        cpy();
     }
 }
