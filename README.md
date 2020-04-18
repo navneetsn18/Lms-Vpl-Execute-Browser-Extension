@@ -11,7 +11,7 @@ Just on the developer mode on extension and install the extension.
 
 # Steps
 
-* Goto Chrome and type < chrome://extensions /> and hit enter.
+* Goto Chrome and type < chrome://extensions > and hit enter.
 * On the top right turn on developer mode.
 * Now on top left click on load unpacked and locate the downloaded folder.
 * Now to turn on the extension and you are ready to go. Note that a rocket icon is showing at the extension area near the search bar.
