@@ -19,3 +19,4 @@ Just on the developer mode on extension and install the extension.
 # Note
 
 Or you can use the bookmark version also which you can find here <https://github.com/navneetsn18/Lms-Trick>
+
